@@ -1,4 +1,3 @@
-@ -1,93 +1,91 @@
 # VS Code Settings
 
 # Font
