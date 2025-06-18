@@ -67,4 +67,6 @@ otovo-oss.htmx-tags
 bierner.markdown-mermaid
 ```
 
-# Settings
+# Install in Single Commands
+ * nano vs-extensions.txt
+ * cat vs-extensions.txt | xargs -L1 code --install-extension
