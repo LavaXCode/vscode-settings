@@ -56,6 +56,10 @@
 
 ```
 Makashi.dark-purple
+saoudrizwan.claude-dev
+ms-python.python
+ms-python.debugpy
+python.vscode-pylance
 fosshaas.fontsize-shortcuts
 vscode-icons-team.vscode-icons
 esbenp.prettier-vscode
