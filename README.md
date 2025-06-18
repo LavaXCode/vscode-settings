@@ -26,7 +26,14 @@
 * Useful Tools
   * [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
     * Take pictures of code with your VS Code Theme / Font settings.
+  * [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
+    * Autonomous Coding Agent 
 * Languages and Libraries
+  * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    * Python language support
+  * [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+    * Python Debugger Extension
+  * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)  
   * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     * Intelligent Tailwind CSS tooling for VS Code.
   * React
