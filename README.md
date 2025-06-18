@@ -7,7 +7,7 @@
 ## Themes/Color
 
 * [Dark Purple](https://marketplace.visualstudio.com/items?itemName=Makashi.dark-purple)
-  * See [`editor.tokenColorCustomizations`](#settings) in my VS Code settings for a few modifications I make to the theme.
+
 
 ## Extensions
 
