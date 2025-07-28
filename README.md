@@ -66,7 +66,6 @@ esbenp.prettier-vscode
 quicktype.quicktype
 streetsidesoftware.code-spell-checker
 yoavbls.pretty-ts-errors
-quicktype.quicktype
 adpyke.codesnap
 bradlc.vscode-tailwindcss
 dsznajder.es7-react-js-snippets
